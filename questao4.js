@@ -8,5 +8,5 @@ if (numero < 0) {
 } else if (numero > 0) {
     console.log("positivo")
 } else {
-    console.log("neutro")
+    console.log("zero")
 }
